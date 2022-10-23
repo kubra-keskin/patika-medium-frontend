@@ -1,0 +1,16 @@
+body{
+    font-family: 'PT Serif', serif;
+    color:rgba(0,0,0,0.8)
+}
+.bg-color{
+    background-color: #FFC017;
+}
+
+.border-bottom-dark{border-bottom :1px solid #414141;
+
+}
+
+.border-bottom-light{border-top: 1px solid rgba(230, 230, 230, 1);;
+
+}
+
